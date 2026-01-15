@@ -46,6 +46,11 @@ A bar chart is used to compare the **F1-scores** of all three models.
 - Random Forest → better handling of non-linear patterns  
 - XGBoost → generally performs best due to boosting  
 
+F1 Scores:
+Logistic Regression : 0.472
+Random Forest : 0.471
+XGBoost : 0.499
+
 ![alt text](<Screenshot 2026-01-15 135339.png>)
 
 It serves as a **baseline churn prediction project** that can be improved further.
